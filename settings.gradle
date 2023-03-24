@@ -1,0 +1,7 @@
+rootProject.name = 'Maven'
+include 'api'
+include 'db'
+include 'service'
+
+
+
